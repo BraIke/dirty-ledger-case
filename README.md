@@ -1,4 +1,5 @@
 # Dirty Ledger — Financial Fraud Case (HC-GH-2025-FF-0047)
+<img width="1254" height="1254" alt="ledger old" src="https://github.com/user-attachments/assets/0a1ee95a-32f0-4460-b83d-672f5ad5587e" />
 
 Digital forensic investigation case files for Operation "Dirty Ledger" — a Ghana Financial Intelligence Centre (FIC) referred money laundering investigation involving suspect Paul Addo and the front company Delta Ventures Ltd.
 
