@@ -1,0 +1,7 @@
+Date,TXN_Ref,Beneficiary,Bank,Country,Amount_USD,SWIFT,Routing_Desc,Status,GHS_Equivalent
+1/8/2025,TXN-INTL-2025-00882,Al Maktoum Investment Holdings LLC,Emirates NBD,UAE,45000,EBILAEAD,Consultancy Services Q4 2024,CLEARED,585000
+1/18/2025,TXN-INTL-2025-00943,Limassol Trade & Advisory Ltd,Hellenic Bank,Cyprus,60000,HEBACY2N,Software License Fees Q4 2024,CLEARED,780000
+2/14/2025,TXN-INTL-2025-01102,Limassol Trade & Advisory Ltd,Hellenic Bank,Cyprus,,HEBACY2N,Q1 2025 Advisory Retainer,IN_PROGRESS,
+,,,,TOTAL,105000,,,,1365000
+,,,,,,,,,
+Created by Nana Sei Anyemedu | Property of HIVE CONSULT,,Case:,HC-GH-2025-FF-0047,,,,,,

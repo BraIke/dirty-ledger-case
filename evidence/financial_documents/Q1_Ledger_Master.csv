@@ -1,0 +1,19 @@
+Date,Ref,Description,Front_Entity,Amount_GHS,Bank,Branch,Cleared,Offshore_USD,Remarks
+1/5/2025,AML-KFD-050125,Invoice REF-AML-2025-0041 (Split 1),Delta Ventures Ltd,50000,Accra Microfinance,Koforidua,YES,,Nancy processed
+1/5/2025,AML-SNY-050125,Invoice REF-AML-2025-0041 (Split 2),Delta Ventures Ltd,35000,Accra Microfinance,Sunyani,YES,,Nancy processed
+1/8/2025,TXN-INTL-2025-00882,Wire transfer to Al Maktoum,Delta Ventures Ltd,,ECOWAS Bank,International,YES,45000,Dubai cleared
+1/12/2025,AMF-KSI-120125,Kumasi batch Split A,Gyimah Construction,30000,Accra Microfinance,Kumasi Central,YES,,
+1/12/2025,AMF-KSI-120125B,Kumasi batch Split B,Gyimah Construction,30000,Accra Microfinance,Kumasi Adum,YES,,
+1/12/2025,AMF-KSI-120125C,Kumasi batch Split C,West Coast Logistics,30000,Accra Microfinance,Kumasi Asokwa,YES,,
+1/12/2025,AMF-KSI-120125D,Kumasi batch Split D,West Coast Logistics,30000,Stanbic,Kumasi,YES,,
+1/15/2025,DCT-TWK-150125,Tarkwa collection — Philip,Delta Ventures Ltd,75000,GCB,Tarkwa,YES,,Philip collected cash
+1/18/2025,TXN-INTL-2025-00943,Consultancy fee wire,Gyimah Construction,,ECOWAS Bank,International,YES,60000,Cyprus route — Mary
+2/3/2025,DVL-INV-FEB001,Invoice Feb Batch 1,Delta Ventures Ltd,80000,GCB,Accra Central,YES,,
+2/3/2025,DVL-INV-FEB002,Invoice Feb Batch 2,Delta Ventures Ltd,70000,Stanbic,Accra,YES,,
+2/3/2025,DVL-INV-FEB003,Invoice Feb Batch 3,Gyimah Construction,50000,Ecobank,Accra,YES,,
+2/14/2025,TXN-INTL-2025-01102,Q1 offshore final tranche,Delta Ventures Ltd,,ECOWAS Bank,International,YES,,Mary — ledger_offshore_Q1.xlsx
+2/20/2025,WCL-INV-FEB001,West Coast Logistics Feb,West Coast Logistics,47000,Ecobank,Takoradi,PENDING,,FIC query raised — resolved
+3/5/2025,DVL-INV-MAR001,March advance,Delta Ventures Ltd,35000,GCB,Accra,YES,,Q2 prep
+,,,TOTAL GHS,572000,,,,105000,
+,,,,,,,,,
+Created by Nana Sei Anyemedu | Property of HIVE CONSULT,,,Case:,HC-GH-2025-FF-0047,,,,,
