@@ -24,10 +24,6 @@ dirty-ledger-case/
 └── diagrams/                  # network/timeline diagrams (Task 23, supporting Task 20)
 ```
 
-## Where to upload your files
-
-Place extracted/exported files from Autopsy and other sources into the matching folder below. Suggested filenames are shown — exact names aren't critical, but keeping them grouped by task helps cross-referencing in the final report.
-
 | Folder | What goes here | Related Tasks |
 |---|---|---|
 | `evidence/autopsy_screenshots/` | All raw Autopsy screenshots (Data Artifacts, File Metadata, Analysis Results views) — e.g. `01_image_integrity.png`, `02_filesystem.png`, `03_file_count.png` | 1, 2, 3 |
